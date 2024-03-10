@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "CL5.C": "cpp",
+        "TODAY.C": "cpp",
+        "cL4.C": "cpp",
+        "CL7.C": "cpp",
+        "CL8.C": "cpp",
+        "CL2.C": "cpp",
+        "size.C": "cpp",
+        "CL9.C": "cpp",
+        "CL10.C": "cpp",
+        "CL12(SIZE).C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
